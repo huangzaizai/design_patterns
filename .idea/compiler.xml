@@ -10,6 +10,7 @@
         <module name="factory" />
         <module name="observer" />
         <module name="proxy" />
+        <module name="decorator" />
         <module name="flyweight" />
       </profile>
     </annotationProcessing>
